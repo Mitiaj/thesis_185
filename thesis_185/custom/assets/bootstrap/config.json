@@ -1,0 +1,10 @@
+{
+  "vars": {},
+  "css": [
+    "modals.less",
+    "component-animations.less"
+  ],
+  "js": [
+    "modal.js"
+  ]
+}
